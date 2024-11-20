@@ -2,4 +2,4 @@
 
 -----
 
-    This repo contains projects that throw more light on the packages and libraries.
+    This repo contains projects that throw more light on Docker and APIs
